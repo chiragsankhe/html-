@@ -99,7 +99,7 @@ The id attribute is used to identify a single unique element, while class is use
 <br>
 <hr>
 <h4> 17. Can a <table> element be nested inside another <table>?</h4>
-Yes, a <table> can be nested within another table by placing it inside a <td> or <th> tag.
+Yes, a <table> can be nested within another table by placing it inside a <td>  <th> tag.
 
 <br>
 <br>
