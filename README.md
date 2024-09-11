@@ -57,7 +57,7 @@ HTML attributes provide additional information about HTML elements, specified in
 <br>
 <hr>
 <h4> 10. What are the different types of forms elements in HTML?</h4>
-<input>, <textarea>, <button>, <select>, <option>, <label>, etc.
+<!-- <input>, <textarea>, <button>, <select>, <option>, <label>, etc. -->
 
 <br>
 <br>
