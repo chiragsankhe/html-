@@ -104,10 +104,11 @@ HTML tags are used to define elements on a web page, enclosed within angle brack
   The current version of HTML is HTML5, which is the fifth and latest version of HTML. It introduced several new elements, attributes, and behaviors, providing more powerful tools for web developers. HTML5 supports multimedia elements such as audio and video without the need for external plugins, improved semantic markup, better handling of forms, and enhanced features for designing responsive and accessible web applications.
 <hr>
 <br>
-  <h4>  ifference between HTML and HTML5
+  <h4> 4. Difference between HTML and HTML5
     
 HTML stands for Hyper Text Markup Language. It is used to design web pages using a markup language. HTML is a combination of Hypertext and Markup language. Hypertext defines the link between the web pages. A markup language is used to define the text document within the tag which defines the structure of web pages. This language is used to annotate (at the note for the computer) text so that a machine can understand it and manipulate text accordingly.
 
+<br>
 Features of HTML:
 It allows the creation of hyperlinks with the <a> tag, connecting different web pages.
 Uses tags to mark elements and content, such as headings (<h1> to <h6>).
@@ -116,6 +117,7 @@ It provides form elements like <form>, <input>, and <button> for user input and 
 Semantic tags like <article>, <section>, and <nav> for better document structure and accessibility.
 HTML 5 is the fifth and current version of HTML. It has improved the markup available for documents and has introduced application programming interfaces(API) and Document Object Model(DOM). It has introduced various new features like drag and drop, geo-location services
 
+<br>
 Features of HTML5:
 Introduced new semantic elements like <header>, <footer>, <section>, and <article> for improved structure.
 Enhances multimedia capabilities with native support for audio and video elements.
