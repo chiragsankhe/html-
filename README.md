@@ -100,7 +100,7 @@ HTML is less strict about syntax compared to XHTML, which is a stricter version 
 HTML tags are used to define elements on a web page, enclosed within angle brackets (< >). For example, <p> for a paragraph.
 <br>
 <br>
-  <h4> What is the current version of HTML?</h4>
+<h4> What is the current version of HTML?</h4>
   The current version of HTML is HTML5, which is the fifth and latest version of HTML. It introduced several new elements, attributes, and behaviors, providing more powerful tools for web developers. HTML5 supports multimedia elements such as audio and video without the need for external plugins, improved semantic markup, better handling of forms, and enhanced features for designing responsive and accessible web applications.
 <hr>
 <br>
@@ -110,13 +110,13 @@ HTML stands for Hyper Text Markup Language. It is used to design web pages using
 
 <br>
 Features of HTML:
-It allows the creation of hyperlinks with the <a> tag, connecting different web pages.
+<p> It allows the creation of hyperlinks with the <a> tag, connecting different web pages.
 Uses tags to mark elements and content, such as headings (<h1> to <h6>).
 It supports embedding images (<img>), videos (<video>), and audio (<audio>) for multimedia content.
 It provides form elements like <form>, <input>, and <button> for user input and data submission.
 Semantic tags like <article>, <section>, and <nav> for better document structure and accessibility.
 HTML 5 is the fifth and current version of HTML. It has improved the markup available for documents and has introduced application programming interfaces(API) and Document Object Model(DOM). It has introduced various new features like drag and drop, geo-location services
-
+</p>
 <br>
 Features of HTML5:
 Introduced new semantic elements like <header>, <footer>, <section>, and <article> for improved structure.
