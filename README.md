@@ -71,12 +71,6 @@ Links and Media:
 ## Inline Tags:
 + `<span>`: A generic inline container, used for grouping and styling text inline.
 + `<div>`: A generic block-level container, used for grouping and styling larger content blocks.
-## Miscellaneous:
-+ <canvas>`: Used for drawing graphics via JavaScript.
-+ <progress>`: Displays a progress bar.
-+ <time>`: Represents a specific time or date.
-+ `<output>`: Represents the result of a calculation or user interaction.
-These are some of the most widely used HTML tags. Each has specific purposes to help structure and format web pages.
 
 
 
